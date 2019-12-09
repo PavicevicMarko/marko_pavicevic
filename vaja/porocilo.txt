@@ -1,1 +1,2 @@
-stage je bil unchanged 
+8. korak : modified not staged
+11.korak : modified not changed
